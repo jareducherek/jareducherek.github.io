@@ -6,7 +6,7 @@ excerpt: 'We develop vanilla machine learning models competitive with contempora
 date: 2020-08-08
 venue: 'Machine Learning for Healthcare'
 citation: 'Snyder, Christopher; Ucherek, Jared; Vishwanath, Sriram. (2020).
-           The Importance of Baseline Models in Sepsis Prediction.
+           The Importance of Baseline Models in Sepsis Prediction.'
 
 ---
 
