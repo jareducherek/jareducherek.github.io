@@ -5,12 +5,10 @@ permalink: /projects/
 author_profile: true
 
 ---
-## Dashboard Video Speed Prediction, Fall 2020
+## [Dashboard Video Speed Prediction, Fall 2020](https://jareducherek.github.io/files/Speed_Prediction.pdf)
 For Digital Image Processing final, I researched various methods for speed
 regression from raw camera footage of a car's dashboard camera.
-These methods span simple linear regression models to end-to-end deep learning frameworks.
-[View paper here](https://jareducherek.github.io/files/Speed_Prediction.pdf)<br>
-
+These methods span simple linear regression models to end-to-end deep learning frameworks.<br>
 Abstract:
 <blockquote>
 In this paper, we cover several approaches for accurate speed prediction from
