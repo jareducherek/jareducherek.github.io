@@ -1,11 +1,17 @@
 ---
 title: ""
 excerpt: ""
-permalink: /random/
+permalink: /travel/
 author_profile: true
 
 ---
-# Random Pictures
+# Travel Pictures
+<p align="center">
+  <img src="https://jareducherek.github.io/files/img_2020_bryce_canyon.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+  <figcaption>Bryce Canyon, Utah Trip, 2020</figcaption>
+</p>
+<br>
+
 <p align="center">
   <img src="https://jareducherek.github.io/files/img_2019_family_snowboarding.jpg?raw=true" alt="Photo" style="width: 450px;"/>
   <figcaption>Snowboarding with my family, 2019</figcaption>

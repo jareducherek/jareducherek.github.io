@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jared Ucherek"
 title_separator          : "-"
 name                     : &name "Jared Ucherek"
-description              : &description "Master's student at UT Austin"
+description              : &description "Data Scientist at BCG Gamma"
 url                      : https://jareducherek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jareducherek.github.io"
@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Jared Ucherek"
   avatar           : "profile.png"
-  bio              : "Master's student at UT Austin, studying Electrical &
-                      Computer Engineering with a focus on Data Science."
-  location         : "Austin, Texas"
+  bio              : "Data scientist at BCG Gamma."
+  location         : "Los Angeles, California"
   employer         :
-  email            : "jared.ucherek@utexas.edu"
+  email            : "jared.ucherek@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

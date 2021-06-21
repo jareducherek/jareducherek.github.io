@@ -5,6 +5,28 @@ permalink: /projects/
 author_profile: true
 
 ---
+## [Dashboard Video Speed Prediction, Fall 2020](https://jareducherek.github.io/files/Driving_Segmentation.pdf)
+For Digital Video Processing final, I implemented a transformer model for image segmentation
+using raw camera footage of a car's dashboard camera.
+<br>
+Abstract:
+<blockquote>
+In this paper, we cover the motivation and approach for
+accurate image segmentation from dashboard video. We
+specifically focus on performance for the Comma10k dataset,
+an open source dataset with 10,000 images with five separate
+segmentation classes. A variety of semantic segmentation
+architectures would perform well on this dataset, and
+we discuss their differences. The performance for our model
+of choice is compared to other public scores cited on the
+Comma10k repo, including Comma10k baseline. We
+cover important training and augmentation steps useful for
+performance gains and ultimately show great performance
+with contemporary transformer model Trans2Seg.
+</blockquote>
+
+<br><br>
+
 ## [Dashboard Video Speed Prediction, Fall 2020](https://jareducherek.github.io/files/Speed_Prediction.pdf)
 For Digital Image Processing final, I researched various methods for speed
 regression from raw camera footage of a car's dashboard camera.
