@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 
 ---
-## [Dashboard Video Speed Prediction, Fall 2020](https://jareducherek.github.io/files/Driving_Segmentation.pdf)
+## [Dashboard Video Segmentation, Fall 2021](https://jareducherek.github.io/files/Driving_Segmentation.pdf)
 For Digital Video Processing final, I implemented a transformer model for image segmentation
 using raw camera footage of a car's dashboard camera.
 <br>
