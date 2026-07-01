@@ -14,21 +14,12 @@ redirect_from:
 # About Me
 I am passionate about all things engineering, and I enjoy learning about innovations that help improve our lives. My current focus is 
 to become proficient with techniques in data science and machine learning to do just that. My hobbies include anything that keeps me
-physically active, primarily snowboarding, wake surfing, and hiking.
-
-I am currently working as a data scientist for Advent International. At Advent, I am developing LLM applications to improve automation 
-efforts for customer service, sales, and data entry teams. I have also built some forecasting models for internal diligence on billion-dollar 
-companies that Advent was interested in purchasing.
-
-After graduating in 2021, I worked for a year as a data scientist at Boston Consulting Group. At BCG, I training recommender system models for 
-consumer retail brands serving over 3 million customers. I was mainly responsible for feature engineering, writing tests, and implementing CI/CD
-pipelines to enable the evolution of customer behavior. I mainly used included Pyspark, MlFlow, and Databricks to accomplish these tasks, but also
-worked with a variety of additional software engineering tools.
+physically active, primarily climbing, snowboarding, and hiking.
 
 I graduated with my masters in Electrical and Computer Engineering from The University of Texas at Austin. Before graduating, I interned at NVIDIA and 
 Salesforce as a data scientist focusing on machine learning applications. My main areas of interest were optimization, image processing, and software 
 engineering.
 
+I have previously worked as a data scientist in consulting and finance, developed LLM applications, built forecasteing models, and trained recommender systems. The LLM applications helped improve automation efforts for customer service, sales, and data entry teams. The forecasting models expedited internal diligence on billion-dollar companies. The recommender systems models for consumer retail brands served over 3 million customers. Some technical aspects of my day-to-day involve feature engineering, model deployment, writing tests, and implementing CI/CD pipelines. I have used countless tools in the space such as Pyspark, MlFlow, Databricks, Snowflake, PyTorch, Postgresql, and Bigquery.
 
-
-
+I am currently a machine learning engineer at Meta. 

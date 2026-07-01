@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jared Ucherek"
 title_separator          : "-"
 name                     : &name "Jared Ucherek"
-description              : &description "Data Scientist at Advent International"
+description              : &description "ML Engineer at Meta"
 url                      : https://jareducherek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jareducherek.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jared Ucherek"
   avatar           : "profile.png"
-  bio              : "Data scientist at Advent International."
-  location         : "Los Angeles, California"
+  bio              : "ML Engineer at Meta."
+  location         : "New York, New York"
   employer         :
-  email            : "jared.ucherek@gmail.com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
